@@ -804,7 +804,11 @@
     "https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html",
     "https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html",
     "https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html",
-    "https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html"
+    "https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html",
+    "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html",
+    "https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html",
+    "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html",
+    "https://thehackernews.com/2026/11/netamloader-malware-targets-government.html"
   ],
   "BleepingComputer": [
     "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/",
@@ -1513,7 +1517,12 @@
     "https://www.bleepingcomputer.com/news/security/trezor-warns-of-suspected-crypto-theft-implant-in-hardware-wallet/",
     "https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/",
     "https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone/",
-    "https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/"
+    "https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/",
+    "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/",
+    "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/",
+    "https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/",
+    "https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/",
+    "https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/"
   ],
   "CERT-FR (ANSSI)": [
     "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0320/",
@@ -2630,7 +2639,8 @@
     "https://isc.sans.edu/diary/rss/33466",
     "https://isc.sans.edu/diary/rss/33472",
     "https://isc.sans.edu/diary/rss/33476",
-    "https://isc.sans.edu/diary/rss/33474"
+    "https://isc.sans.edu/diary/rss/33474",
+    "https://isc.sans.edu/diary/rss/33478"
   ],
   "Cisco Talos Intelligence": [
     "https://blog.talosintelligence.com/black-hat-special-rewind-and-revisit/",
