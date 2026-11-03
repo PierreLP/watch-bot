@@ -814,7 +814,17 @@
     "https://thehackernews.com/2026/11/is-your-soc-ready-for-ai-agents.html",
     "https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html",
     "https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html",
-    "https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html"
+    "https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html",
+    "https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html",
+    "https://thehackernews.com/2026/11/the-4-elements-of-exposure.html",
+    "https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html",
+    "https://thehackernews.com/2026/11/hackers-exploit-btcpay-server-flaw-to.html",
+    "https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html",
+    "https://thehackernews.com/2026/11/second-wave-of-cyberattacks-hits.html",
+    "https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html",
+    "https://thehackernews.com/2026/11/attackers-target-unpatched.html",
+    "https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html",
+    "https://thehackernews.com/2026/11/google-disrupts-13-million-device.html"
   ],
   "BleepingComputer": [
     "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/",
@@ -1538,7 +1548,14 @@
     "https://www.bleepingcomputer.com/news/security/ivanti-patches-two-more-connect-secure-zero-days-chained-in-attacks/",
     "https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/",
     "https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/",
-    "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-doubling-pro-usage-limits-and-bringing-work-features-to-chat/"
+    "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-doubling-pro-usage-limits-and-bringing-work-features-to-chat/",
+    "https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/",
+    "https://www.bleepingcomputer.com/news/security/police-seizes-over-100-servers-in-investment-scam-crackdown/",
+    "https://www.bleepingcomputer.com/news/google/google-adds-new-250-000-cloud-vrp-reward-for-root-in-cloud-bugs/",
+    "https://www.bleepingcomputer.com/news/security/harvard-university-data-breach-exposed-info-of-851-000-accounts/",
+    "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/",
+    "https://www.bleepingcomputer.com/news/security/fintech-platform-sageworks-taken-offline-after-suspected-cyberattack/",
+    "https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/"
   ],
   "CERT-FR (ANSSI)": [
     "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0320/",
@@ -2407,7 +2424,8 @@
     "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
     "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
     "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
-    "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/"
+    "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
+    "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/"
   ],
   "Schneier on Security": [
     "https://www.schneier.com/blog/archives/2026/07/should-you-use-ai-for-a-task-heres-a-simple-way-to-decide.html",
@@ -2520,7 +2538,8 @@
     "https://www.schneier.com/blog/archives/2026/10/studying-fraudulent-north-korean-it-workers.html",
     "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-bigfin-squid-off-california-coast.html",
     "https://www.schneier.com/blog/archives/2026/10/bloatware-in-aftermarket-auto-parts.html",
-    "https://www.schneier.com/blog/archives/2026/11/ai-vulnerability-finding-2.html"
+    "https://www.schneier.com/blog/archives/2026/11/ai-vulnerability-finding-2.html",
+    "https://www.schneier.com/blog/archives/2026/11/ais-hacking-the-law.html"
   ],
   "SANS Internet Storm Center": [
     "https://isc.sans.edu/diary/rss/33200",
@@ -2669,7 +2688,8 @@
     "https://isc.sans.edu/diary/rss/33474",
     "https://isc.sans.edu/diary/rss/33478",
     "https://isc.sans.edu/diary/rss/33482",
-    "https://isc.sans.edu/diary/rss/33480"
+    "https://isc.sans.edu/diary/rss/33480",
+    "https://isc.sans.edu/diary/rss/33484"
   ],
   "Cisco Talos Intelligence": [
     "https://blog.talosintelligence.com/black-hat-special-rewind-and-revisit/",
@@ -3043,7 +3063,12 @@
     "https://therecord.media/apple-warns-users-99-countries-mercenary-spyware",
     "https://therecord.media/ukraine-hackers-russia-alert-system",
     "https://therecord.media/cyberattack-grocery-freezers-europe",
-    "https://therecord.media/fbi-blames-tradertraitor-for-binance-hack"
+    "https://therecord.media/fbi-blames-tradertraitor-for-binance-hack",
+    "https://therecord.media/russia-dismantles-vasygrek-infrastructure-detains-three",
+    "https://therecord.media/russia-linked-cyber-spies-target-ukraine-war-support",
+    "https://therecord.media/uk-ncsc-predicts-rise-cyberattacks-coming-months",
+    "https://therecord.media/mercado-bitcoin-brazil-cryptocurrency-heist",
+    "https://therecord.media/michigan-state-university-byod-gang-cyber-incident"
   ],
   "NCSC UK": [
     "https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027",
@@ -3065,7 +3090,8 @@
     "https://www.ncsc.gov.uk/report/the-cyber-threat-to-sports-organisations",
     "https://www.ncsc.gov.uk/report/summary-of-ncsc-analysis-of-us-may-2020-sanction",
     "https://www.ncsc.gov.uk/report/nhs-covid-19-app-privacy-security-report",
-    "https://www.ncsc.gov.uk/report/summary-of-ncsc-security-analysis-for-the-uk-telecoms-sector"
+    "https://www.ncsc.gov.uk/report/summary-of-ncsc-security-analysis-for-the-uk-telecoms-sector",
+    "https://www.ncsc.gov.uk/report/artificial-intelligence-and-cyber-intrusion"
   ],
   "OpenAI News": [
     "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
@@ -4415,7 +4441,14 @@
     "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
     "https://openai.com/index/fair-use-benefits-everyone",
     "https://openai.com/index/credit-saison",
-    "https://openai.com/index/grid-protectors-program"
+    "https://openai.com/index/grid-protectors-program",
+    "https://openai.com/index/heimstaden",
+    "https://openai.com/index/scaling-git-at-openai",
+    "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+    "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+    "https://openai.com/index/lifeval",
+    "https://openai.com/index/dan-driscoll-joins-openai",
+    "https://openai.com/index/qodo-codex-plugin"
   ],
   "Anthropic News": [
     "https://www.anthropic.com/news/position-open-weights-models",
@@ -4647,7 +4680,8 @@
     "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
     "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
     "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
-    "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/"
+    "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+    "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/"
   ],
   "Claude Blog": [
     "https://claude.com/blog/bringing-mcp-2026-07-28-to-claude",
@@ -4754,7 +4788,8 @@
     "https://claude.com/resources/articles/claude-for-financial-advisors",
     "https://claude.com/resources/articles/smart-reports-surveys-pooled-budgets",
     "https://claude.com/resources/articles/idc-brings-quanta-into-claude-and-adopts-claude-across-the-company",
-    "https://claude.com/resources/articles/introducing-artifacts-for-legal-work"
+    "https://claude.com/resources/articles/introducing-artifacts-for-legal-work",
+    "https://claude.com/resources/articles/message-threads"
   ],
   "Cursor Blog": [
     "https://cursor.com/changelog/ipad",
@@ -4962,7 +4997,8 @@
     "https://blog.cloudflare.com/ddos-threat-report-2026-q3/",
     "https://blog.cloudflare.com/emudhra-patching/",
     "https://blog.cloudflare.com/private-origins-public-to-private/",
-    "https://blog.cloudflare.com/dns-targeted-zone-builds/"
+    "https://blog.cloudflare.com/dns-targeted-zone-builds/",
+    "https://blog.cloudflare.com/zero-wire/"
   ],
   "Hugging Face - Blog": [
     "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
@@ -5890,7 +5926,8 @@
     "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
     "https://huggingface.co/blog/announcing-project-protostar",
     "https://huggingface.co/blog/mistral-large4",
-    "https://huggingface.co/blog/nvidia/nemotron-halloween"
+    "https://huggingface.co/blog/nvidia/nemotron-halloween",
+    "https://huggingface.co/blog/transformers-mic"
   ],
   "Mistral AI": [
     "https://mistral.ai/news/manage-prompts-and-skills-in-studio/",
@@ -6588,6 +6625,8 @@
     "https://www.undernews.fr/hacking-hacktivisme/piratage-record-de-binance-les-commentaires-de-filigran.html",
     "https://www.undernews.fr/reseau-securite/rapport-soti-fraud-and-abuse-2026-akamai-des-attaques-ciblees-sur-les-entreprises-et-des-campagnes-de-phishing-plus-courtes-et-demultipliees-lia-fait-evoluer-larnaque-en-ligne-au-rang-di.html",
     "https://www.undernews.fr/hacking-hacktivisme/piratages-de-binance-et-polymarket-lecosysteme-crypto-cible.html",
-    "https://www.undernews.fr/reseau-securite/arnaques-par-ia-et-deepfakes-les-reflexes-qui-protegent-vraiment.html"
+    "https://www.undernews.fr/reseau-securite/arnaques-par-ia-et-deepfakes-les-reflexes-qui-protegent-vraiment.html",
+    "https://www.undernews.fr/hacking-hacktivisme/cyberattaque-de-binance-flare-detecte-74-identifiants-professionnels-dans-des-donnees-derobees-par-des-infostealers.html",
+    "https://www.undernews.fr/hacking-hacktivisme/google-analyse-limpact-financier-du-llm-jacking.html"
   ]
 }
