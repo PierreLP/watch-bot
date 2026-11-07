@@ -857,7 +857,11 @@
     "https://thehackernews.com/2026/11/experts-demonstrate-barracuda-email.html",
     "https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html",
     "https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html",
-    "https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html"
+    "https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html",
+    "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
+    "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html",
+    "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html",
+    "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html"
   ],
   "BleepingComputer": [
     "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/",
@@ -1616,7 +1620,15 @@
     "https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/",
     "https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/",
     "https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/",
-    "https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk/"
+    "https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk/",
+    "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
+    "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
+    "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/",
+    "https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/",
+    "https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/",
+    "https://www.bleepingcomputer.com/news/security/veeam-software-appliance-vms-fail-to-boot-on-amd-epyc-hosts/",
+    "https://www.bleepingcomputer.com/news/security/imsi-vs-imei-what-your-phone-broadcasts-and-who-can-read-it/",
+    "https://www.bleepingcomputer.com/news/security/chainalysis-says-breach-exposed-credentials-for-all-customers/"
   ],
   "CERT-FR (ANSSI)": [
     "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0320/",
@@ -2500,7 +2512,8 @@
     "https://www.cisa.gov/news-events/alerts/2026/11/03/cisa-adds-one-known-exploited-vulnerability-catalog",
     "https://www.cisa.gov/resources-tools/resources/post-quantum-questions-ask-your-vendors",
     "https://www.cisa.gov/resources-tools/resources/us-government-partners-urge-hardening-industrial-refrigeration-and-cold-chain-monitoring-systems",
-    "https://www.cisa.gov/news-events/alerts/2026/11/04/cisa-adds-one-known-exploited-vulnerability-catalog"
+    "https://www.cisa.gov/news-events/alerts/2026/11/04/cisa-adds-one-known-exploited-vulnerability-catalog",
+    "https://www.cisa.gov/news-events/alerts/2026/11/06/cisa-adds-one-known-exploited-vulnerability-catalog"
   ],
   "Krebs on Security": [
     "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
@@ -2644,7 +2657,9 @@
     "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-bigfin-squid-off-california-coast.html",
     "https://www.schneier.com/blog/archives/2026/10/bloatware-in-aftermarket-auto-parts.html",
     "https://www.schneier.com/blog/archives/2026/11/ai-vulnerability-finding-2.html",
-    "https://www.schneier.com/blog/archives/2026/11/ais-hacking-the-law.html"
+    "https://www.schneier.com/blog/archives/2026/11/ais-hacking-the-law.html",
+    "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-new-jurassic-squid-predecessors.html",
+    "https://www.schneier.com/blog/archives/2026/11/pinpointing-location-of-videos-from-background-airplane-sounds.html"
   ],
   "SANS Internet Storm Center": [
     "https://isc.sans.edu/diary/rss/33200",
@@ -3194,7 +3209,11 @@
     "https://therecord.media/queens-library-ransomware-causes-disruptions",
     "https://therecord.media/social-media-giants-sue-california-over-social-media-law",
     "https://therecord.media/us-issues-more-sanctions-against-prince-group-scammers",
-    "https://therecord.media/cyberattacks-refrigeration-cisa-fbi"
+    "https://therecord.media/cyberattacks-refrigeration-cisa-fbi",
+    "https://therecord.media/medical-services-company-settles-with-4-state-ags",
+    "https://therecord.media/digicert-certificate-authority-reports-data-breach",
+    "https://therecord.media/fbi-agent-pleads-guilty-to-stealing-from-nation-state-hackers",
+    "https://therecord.media/ceo-spoofing-scammers-charged"
   ],
   "NCSC UK": [
     "https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027",
@@ -4590,7 +4609,9 @@
     "https://openai.com/index/introducing-gpt-6-cyber",
     "https://openai.com/index/merge-builds-with-openai",
     "https://openai.com/ads/customers/flipsnack",
-    "https://openai.com/index/franklin-templeton"
+    "https://openai.com/index/franklin-templeton",
+    "https://openai.com/index/partnering-with-hacktron",
+    "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science"
   ],
   "Anthropic News": [
     "https://www.anthropic.com/news/position-open-weights-models",
@@ -4982,7 +5003,8 @@
     "https://cursor.com/changelog/cloud-agent-canvases-and-environments",
     "https://cursor.com/blog/navan",
     "https://cursor.com/changelog/agent-sdk",
-    "https://cursor.com/changelog/build-live-apps"
+    "https://cursor.com/changelog/build-live-apps",
+    "https://cursor.com/changelog/voice-chat"
   ],
   "Cloudflare Blog": [
     "https://blog.cloudflare.com/cdnjs-dev-platform-migration/",
