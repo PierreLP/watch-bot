@@ -1628,7 +1628,9 @@
     "https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/",
     "https://www.bleepingcomputer.com/news/security/veeam-software-appliance-vms-fail-to-boot-on-amd-epyc-hosts/",
     "https://www.bleepingcomputer.com/news/security/imsi-vs-imei-what-your-phone-broadcasts-and-who-can-read-it/",
-    "https://www.bleepingcomputer.com/news/security/chainalysis-says-breach-exposed-credentials-for-all-customers/"
+    "https://www.bleepingcomputer.com/news/security/chainalysis-says-breach-exposed-credentials-for-all-customers/",
+    "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/",
+    "https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/"
   ],
   "CERT-FR (ANSSI)": [
     "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0320/",
@@ -6833,6 +6835,7 @@
     "https://www.undernews.fr/hacking-hacktivisme/nouveaux-piratages-de-refrigerateurs-en-europe-les-commentaires-de-filigran.html",
     "https://www.undernews.fr/alertes-securite/une-vulnerabilite-expose-les-risques-des-robots-ia-utilises-a-domicile-et-dans-les-ecoles.html",
     "https://www.undernews.fr/reseau-securite/google-cloud-security-securiser-le-developpement-et-se-defendre-a-la-vitesse-de-la-machine.html",
-    "https://www.undernews.fr/banque-cartes-bancaires/plus-de-100-millions-deuros-derobes-lors-dune-cyberattaque-contre-le-credit-mutuel-arkea.html"
+    "https://www.undernews.fr/banque-cartes-bancaires/plus-de-100-millions-deuros-derobes-lors-dune-cyberattaque-contre-le-credit-mutuel-arkea.html",
+    "https://www.undernews.fr/reseau-securite/les-plans-de-cyber-reprise-nont-pas-ete-concus-pour-faire-face-a-la-realite-actuelle.html"
   ]
 }
