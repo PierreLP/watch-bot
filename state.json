@@ -927,7 +927,12 @@
     "https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html",
     "https://thehackernews.com/2026/11/trezor-confirms-hidden-hardware.html",
     "https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html",
-    "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html"
+    "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html",
+    "https://thehackernews.com/2026/11/six-unpatched-danfoss-refrigeration.html",
+    "https://thehackernews.com/2026/11/retadup-worm-resurfaces-7-years-after.html",
+    "https://thehackernews.com/2026/11/sansar-linux-cryptomining-malware-uses.html",
+    "https://thehackernews.com/2026/11/amazon-uncovers-ai-agent-campaign.html",
+    "https://thehackernews.com/2026/11/bo-team-exploits-log4shell-in-vmware.html"
   ],
   "BleepingComputer": [
     "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/",
@@ -1756,7 +1761,17 @@
     "https://www.bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper/",
     "https://www.bleepingcomputer.com/news/security/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps/",
     "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
-    "https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/"
+    "https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/",
+    "https://www.bleepingcomputer.com/news/security/fandango-says-hackers-stole-payment-card-details-from-checkout-pages/",
+    "https://www.bleepingcomputer.com/news/security/7-tips-for-complying-with-cjis-password-and-mfa-requirements/",
+    "https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/",
+    "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-60-days/",
+    "https://www.bleepingcomputer.com/news/security/australian-retail-giant-coles-investigates-cybersecurity-incident/",
+    "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-claude-fable-52-blocks-fewer-security-tasks-while-mythos-gets-better-at-finding-bugs/",
+    "https://www.bleepingcomputer.com/news/linux/new-noisytcp-linux-kernel-flaw-lets-attackers-crash-servers/",
+    "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-emergency-updates-fix-activation-licensing-failures/",
+    "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
+    "https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/"
   ],
   "CERT-FR (ANSSI)": [
     "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0320/",
@@ -2435,7 +2450,14 @@
     "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1536/",
     "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1537/",
     "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1538/",
-    "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1539/"
+    "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1539/",
+    "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1540/",
+    "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1541/",
+    "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1542/",
+    "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1543/",
+    "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1544/",
+    "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1545/",
+    "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1546/"
   ],
   "CISA Advisories": [
     "https://www.cisa.gov/resources-tools/resources/2026-minimum-elements-software-bill-materials-sbom",
@@ -2863,7 +2885,8 @@
     "https://www.schneier.com/blog/archives/2026/11/another-way-police-are-locating-people-from-their-smartphones.html",
     "https://www.schneier.com/blog/archives/2026/11/ai-doesnt-have-to-go-rogue-to-break-the-world.html",
     "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-pacific-flying-squid-populations-dropping-in-korean-waters.html",
-    "https://www.schneier.com/blog/archives/2026/11/upcoming-speaking-engagements-62.html"
+    "https://www.schneier.com/blog/archives/2026/11/upcoming-speaking-engagements-62.html",
+    "https://www.schneier.com/blog/archives/2026/11/usable-security-at-luxury-hotels.html"
   ],
   "SANS Internet Storm Center": [
     "https://isc.sans.edu/diary/rss/33200",
@@ -3029,7 +3052,10 @@
     "https://isc.sans.edu/diary/rss/33514",
     "https://isc.sans.edu/diary/rss/33512",
     "https://isc.sans.edu/diary/rss/33518",
-    "https://isc.sans.edu/diary/rss/33516"
+    "https://isc.sans.edu/diary/rss/33516",
+    "https://isc.sans.edu/diary/rss/33522",
+    "https://isc.sans.edu/diary/rss/33520",
+    "https://isc.sans.edu/diary/rss/33496"
   ],
   "Cisco Talos Intelligence": [
     "https://blog.talosintelligence.com/black-hat-special-rewind-and-revisit/",
@@ -3458,7 +3484,10 @@
     "https://therecord.media/city-of-osaka-japan-email-data-breach",
     "https://therecord.media/nyc-council-passes-bill-ban-surveillance-pricing",
     "https://therecord.media/university-of-texas-arlington-warns-data-breach",
-    "https://therecord.media/german-parliament-passes-law-giving-spy-agencies-hacking-power"
+    "https://therecord.media/german-parliament-passes-law-giving-spy-agencies-hacking-power",
+    "https://therecord.media/british-government-complacent-foreign-cyber-threats",
+    "https://therecord.media/russia-europe-sanctions-doppelganger",
+    "https://therecord.media/lithuania-customs-agency-cyberattack"
   ],
   "NCSC UK": [
     "https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027",
@@ -4882,7 +4911,13 @@
     "https://openai.com/business/customer-stories/amplitude",
     "https://openai.com/business/customer-stories/gondola",
     "https://openai.com/index/introducing-chatgpt-wallet",
-    "https://openai.com/business/customer-stories/shield"
+    "https://openai.com/business/customer-stories/shield",
+    "https://openai.com/index/lvmh-media-division-partnership",
+    "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+    "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+    "https://openai.com/index/the-kings-trust-and-openai",
+    "https://openai.com/index/step-toward-defining-the-standard-model",
+    "https://openai.com/index/our-new-blog-for-science"
   ],
   "Anthropic News": [
     "https://www.anthropic.com/news/position-open-weights-models",
@@ -5133,7 +5168,8 @@
     "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
     "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
     "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
-    "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/"
+    "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+    "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/"
   ],
   "Claude Blog": [
     "https://claude.com/blog/bringing-mcp-2026-07-28-to-claude",
@@ -7028,7 +7064,12 @@
     "https://www.zataz.com/metaux-precieux-et-donnees-clients-mises-en-vente/",
     "https://www.zataz.com/le-pirate-qui-audite-la-france/",
     "https://www.zataz.com/opsysweb-une-fuite-presumee-de-43-millions-de-commandes/",
-    "https://www.zataz.com/cyberattaque-maileva-22-millions-de-personnes-touchees/"
+    "https://www.zataz.com/cyberattaque-maileva-22-millions-de-personnes-touchees/",
+    "https://www.zataz.com/je-sappelle-gru-ingerence-russe-soupconnee-dagir-dans-les-manifestations-en-france/",
+    "https://www.zataz.com/stripe-va-masquer-ses-cles-api-secretes-le-20-novembre/",
+    "https://www.zataz.com/areas-assurances-vise-par-une-vente-de-donnees/",
+    "https://www.zataz.com/techfive-cite-dans-une-annonce-de-vente-de-donnees/",
+    "https://www.zataz.com/entre-bievre-et-rhone-visee-par-une-revendication-cyber/"
   ],
   "Undernews": [
     "https://www.undernews.fr/malwares-virus-antivirus/nouveau-voleur-de-donnees-macos-decouvert-par-group-ib-aucune-detection-sur-virustotal-aucune-exploitation-requise.html",
@@ -7193,6 +7234,7 @@
     "https://www.undernews.fr/undernews/formation-ia-pourquoi-lintelligence-artificielle-sintegre-desormais-dans-tous-les-metiers.html",
     "https://www.undernews.fr/reseau-securite/26-des-entreprises-pretes-a-changer-de-fournisseur-pour-unifier-leurs-outils-de-cybersecurite-sur-une-plateforme-unique.html",
     "https://www.undernews.fr/reseau-securite/panne-chez-microsoft-comment-les-hackers-peuvent-tirer-parti-de-la-situation.html",
-    "https://www.undernews.fr/alertes-securite/panne-microsoft-365-le-point-de-vue-de-jfrog.html"
+    "https://www.undernews.fr/alertes-securite/panne-microsoft-365-le-point-de-vue-de-jfrog.html",
+    "https://www.undernews.fr/reseau-securite/phishing-hoax/gta-6-les-cyberattaques-par-phishing-explosent-de-1-300-a-lapproche-de-sa-sortie.html"
   ]
 }
