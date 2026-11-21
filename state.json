@@ -974,7 +974,14 @@
     "https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html",
     "https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html",
     "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html",
-    "https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html"
+    "https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html",
+    "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html",
+    "https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html",
+    "https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html",
+    "https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html",
+    "https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html",
+    "https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html",
+    "https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html"
   ],
   "BleepingComputer": [
     "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/",
@@ -1856,7 +1863,11 @@
     "https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/",
     "https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-hard-coded-key-flaw-in-control-center-express/",
     "https://www.bleepingcomputer.com/news/security/transport-for-london-breach-exposes-265-000-oyster-card-users-data/",
-    "https://www.bleepingcomputer.com/news/security/php-security-updates-fix-18-flaws-including-critical-rce-bugs/"
+    "https://www.bleepingcomputer.com/news/security/php-security-updates-fix-18-flaws-including-critical-rce-bugs/",
+    "https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/",
+    "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/",
+    "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
+    "https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/"
   ],
   "CERT-FR (ANSSI)": [
     "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0320/",
@@ -2885,7 +2896,8 @@
     "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-02",
     "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-03",
     "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-01",
-    "https://www.cisa.gov/news-events/alerts/2026/11/18/cisa-adds-four-known-exploited-vulnerabilities-catalog"
+    "https://www.cisa.gov/news-events/alerts/2026/11/18/cisa-adds-four-known-exploited-vulnerabilities-catalog",
+    "https://www.cisa.gov/news-events/alerts/2026/11/20/cisa-adds-four-known-exploited-vulnerabilities-catalog"
   ],
   "Krebs on Security": [
     "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
@@ -2918,7 +2930,8 @@
     "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
     "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/",
     "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/",
-    "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/"
+    "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
+    "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/"
   ],
   "Schneier on Security": [
     "https://www.schneier.com/blog/archives/2026/07/should-you-use-ai-for-a-task-heres-a-simple-way-to-decide.html",
@@ -3045,7 +3058,8 @@
     "https://www.schneier.com/blog/archives/2026/11/usable-security-at-luxury-hotels.html",
     "https://www.schneier.com/blog/archives/2026/11/formal-verification-of-the-signal-protocol-using-ai.html",
     "https://www.schneier.com/blog/archives/2026/11/france-is-blaming-iran-for-the-fridge-cyberattack.html",
-    "https://www.schneier.com/blog/archives/2026/11/opening-a-400-year-old-cryptex.html"
+    "https://www.schneier.com/blog/archives/2026/11/opening-a-400-year-old-cryptex.html",
+    "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-the-largest-squid-ever-filmed.html"
   ],
   "SANS Internet Storm Center": [
     "https://isc.sans.edu/diary/rss/33200",
@@ -3677,7 +3691,12 @@
     "https://therecord.media/dozens-of-credit-unions-hit-by-supplier-breach",
     "https://therecord.media/lawmakers-launch-new-ai-safety-caucus",
     "https://therecord.media/doj-dhs-partner-on-new-unit-tackling-scams-cybercrime",
-    "https://therecord.media/cisa-losapio-nomination-trump"
+    "https://therecord.media/cisa-losapio-nomination-trump",
+    "https://therecord.media/west-virginia-legislature-cyberattack",
+    "https://therecord.media/chinese-open-weight-AI-use-by-US-companies-house-investigation",
+    "https://therecord.media/container-store-restores-systems-cyberattack",
+    "https://therecord.media/amazon-research-cairn-ai-university-attacks-possible-zero-day",
+    "https://therecord.media/nsa-resumes-normal-operations-following-internal-disruptions"
   ],
   "NCSC UK": [
     "https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027",
@@ -5132,7 +5151,10 @@
     "https://openai.com/business/learn/deploying-daybreak-red",
     "https://openai.com/business/learn/pr-scans-demo",
     "https://openai.com/business/learn/codex-security-plugin-demo",
-    "https://openai.com/business/learn/daybreak-blue-onboarding-demo"
+    "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+    "https://openai.com/index/combatting-adversarial-distillation",
+    "https://openai.com/business/customer-stories/hebbia",
+    "https://openai.com/index/introducing-medchembench"
   ],
   "Anthropic News": [
     "https://www.anthropic.com/news/position-open-weights-models",
@@ -5182,7 +5204,8 @@
     "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
     "https://www.anthropic.com/news/roadshow-launch",
     "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-    "https://www.anthropic.com/news/anthropic-prices-initial-public-offering"
+    "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+    "https://www.anthropic.com/news/ipo-close"
   ],
   "Google DeepMind Blog": [
     "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
@@ -5746,7 +5769,9 @@
     "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
     "https://blog.cloudflare.com/internet-traffic-2026-us-election/",
     "https://blog.cloudflare.com/open-clairic/",
-    "https://blog.cloudflare.com/nginx2root/"
+    "https://blog.cloudflare.com/nginx2root/",
+    "https://blog.cloudflare.com/ruby2shell-waf-protection/",
+    "https://blog.cloudflare.com/phpaftershell-waf-protection/"
   ],
   "Hugging Face - Blog": [
     "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
@@ -6701,7 +6726,8 @@
     "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
     "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
     "https://huggingface.co/blog/moe-expert-streaming",
-    "https://huggingface.co/blog/harness-adapters-at-scale"
+    "https://huggingface.co/blog/harness-adapters-at-scale",
+    "https://huggingface.co/blog/inkling2mini"
   ],
   "Mistral AI": [
     "https://mistral.ai/news/manage-prompts-and-skills-in-studio/",
@@ -7354,7 +7380,10 @@
     "https://www.zataz.com/un-sms-blaster-decouvert-dans-une-voiture/",
     "https://www.zataz.com/luxor-des-recompenses-bitcoin-detournees/",
     "https://www.zataz.com/infoblox-des-configurations-reseau-derobees/",
-    "https://www.zataz.com/scattered-spider-six-ans-de-prison-pour-un-pirate/"
+    "https://www.zataz.com/scattered-spider-six-ans-de-prison-pour-un-pirate/",
+    "https://www.zataz.com/cyberattaques-la-boite-de-pandora-est-elle-ouverte-avec-lia-artex/",
+    "https://www.zataz.com/actualites-cybersecurite-de-la-semaine-du-16-novembre-2026/",
+    "https://www.zataz.com/non-cest-non-sauf-quand-il-reclame-une-rancon/"
   ],
   "Undernews": [
     "https://www.undernews.fr/malwares-virus-antivirus/nouveau-voleur-de-donnees-macos-decouvert-par-group-ib-aucune-detection-sur-virustotal-aucune-exploitation-requise.html",
