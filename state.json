@@ -1009,7 +1009,13 @@
     "https://thehackernews.com/2026/11/hackers-compromise-24-check-point.html",
     "https://thehackernews.com/2026/11/com-affiliated-hackers-hijack-cloud.html",
     "https://thehackernews.com/2026/11/wordpress-blocks-six-backdoored-wp.html",
-    "https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html"
+    "https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html",
+    "https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html",
+    "https://thehackernews.com/2026/11/most-wanted-phishing-kits-and.html",
+    "https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html",
+    "https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html",
+    "https://thehackernews.com/2026/11/hackers-exploit-10-vulnerabilities.html",
+    "https://thehackernews.com/2026/11/13-malicious-nuget-packages-turn-fake.html"
   ],
   "BleepingComputer": [
     "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/",
@@ -1929,7 +1935,12 @@
     "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/",
     "https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/",
     "https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/",
-    "https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/"
+    "https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/",
+    "https://www.bleepingcomputer.com/news/security/remus-malware-steals-gmail-messages-via-fake-google-sheets-extension/",
+    "https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook/",
+    "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/",
+    "https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/",
+    "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/"
   ],
   "CERT-FR (ANSSI)": [
     "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0320/",
@@ -2692,7 +2703,14 @@
     "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1619/",
     "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1620/",
     "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1621/",
-    "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1622/"
+    "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1622/",
+    "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1623/",
+    "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1624/",
+    "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1625/",
+    "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1626/",
+    "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1627/",
+    "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1628/",
+    "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1629/"
   ],
   "CISA Advisories": [
     "https://www.cisa.gov/resources-tools/resources/2026-minimum-elements-software-bill-materials-sbom",
@@ -2988,7 +3006,8 @@
     "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-03",
     "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-01",
     "https://www.cisa.gov/news-events/alerts/2026/11/23/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-    "https://www.cisa.gov/news-events/alerts/2026/11/24/cisa-adds-three-known-exploited-vulnerabilities-catalog"
+    "https://www.cisa.gov/news-events/alerts/2026/11/24/cisa-adds-three-known-exploited-vulnerabilities-catalog",
+    "https://www.cisa.gov/news-events/alerts/2026/11/25/cisa-adds-10-known-exploited-vulnerabilities-catalog"
   ],
   "Krebs on Security": [
     "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
@@ -3411,7 +3430,8 @@
     "https://blog.talosintelligence.com/java4shell/",
     "https://blog.talosintelligence.com/the-internet-needs-a-nap-and-you-do-too/",
     "https://blog.talosintelligence.com/the-great-escape-tradecraft-insights-from-an-agentic-swarm/",
-    "https://blog.talosintelligence.com/securing-grandmas-groceries-with-pierre-cadieux/"
+    "https://blog.talosintelligence.com/securing-grandmas-groceries-with-pierre-cadieux/",
+    "https://blog.talosintelligence.com/oh-is-it-thanksgiving-i-hadnt-noticed/"
   ],
   "The Record": [
     "https://therecord.media/north-korea-hackers-amazon-malware",
@@ -3811,7 +3831,12 @@
     "https://therecord.media/treasury-fincen-takes-systems-offline-after-cyber-incident",
     "https://therecord.media/mycolorado-app-down-data-breach",
     "https://therecord.media/california-privacy-agency-kemp",
-    "https://therecord.media/idscan-data-breach-warning-congressional-letter"
+    "https://therecord.media/idscan-data-breach-warning-congressional-letter",
+    "https://therecord.media/britain-delays-national-cyber-action-plan-again",
+    "https://therecord.media/microsoft-china-salt-typhoon-using-artex-ai-tool",
+    "https://therecord.media/fifa-data-breach-limited",
+    "https://therecord.media/ransomware-doj-indictment-recovery",
+    "https://therecord.media/australia-passes-online-safety-legislation-preempt-harms"
   ],
   "NCSC UK": [
     "https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027",
@@ -6869,7 +6894,11 @@
     "https://huggingface.co/blog/agentic-evals",
     "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
     "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
-    "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb"
+    "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+    "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+    "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+    "https://huggingface.co/blog/training-swarms",
+    "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents"
   ],
   "Mistral AI": [
     "https://mistral.ai/news/manage-prompts-and-skills-in-studio/",
@@ -7285,7 +7314,8 @@
     "https://korben.info/linuxpdf-linux-dans-un-pdf.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
     "https://korben.info/g15-retro-hud.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
     "https://korben.info/ubuntu-lanceur-ia-local.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-    "https://korben.info/ff8-reborn-final-fantasy-viii-remastered.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal"
+    "https://korben.info/ff8-reborn-final-fantasy-viii-remastered.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+    "https://korben.info/game-boy-musee-cartouche.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal"
   ],
   "ZATAZ": [
     "https://www.zataz.com/planity-visee-par-une-vente-presumee-de-donnees-piratees/",
