@@ -1015,7 +1015,13 @@
     "https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html",
     "https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html",
     "https://thehackernews.com/2026/11/hackers-exploit-10-vulnerabilities.html",
-    "https://thehackernews.com/2026/11/13-malicious-nuget-packages-turn-fake.html"
+    "https://thehackernews.com/2026/11/13-malicious-nuget-packages-turn-fake.html",
+    "https://thehackernews.com/2026/11/microsoft-store-app-found-delivering.html",
+    "https://thehackernews.com/2026/11/how-to-keep-your-security-picture.html",
+    "https://thehackernews.com/2026/11/hackers-trojanize-official-q-dir-and.html",
+    "https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html",
+    "https://thehackernews.com/2026/11/unpatched-cacti-zero-day-enables-rce-in.html",
+    "https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html"
   ],
   "BleepingComputer": [
     "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/",
@@ -1940,7 +1946,18 @@
     "https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook/",
     "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/",
     "https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/",
-    "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/"
+    "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/",
+    "https://www.bleepingcomputer.com/news/security/us-air-force-cloud-platform-reportedly-hacked-in-latest-federal-breach/",
+    "https://www.bleepingcomputer.com/news/security/your-firewall-isnt-enough-the-hidden-risk-of-unmanaged-vms/",
+    "https://www.bleepingcomputer.com/news/security/malwarebytes-antivirus-get-50-percent-off-during-black-friday-2026/",
+    "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wsus-server-role-in-windows-server-2028/",
+    "https://www.bleepingcomputer.com/news/security/drupal-warns-of-new-access-bypass-flaw-exploited-in-attacks/",
+    "https://www.bleepingcomputer.com/news/security/sap-confirms-security-incident-after-suspicious-github-activity/",
+    "https://www.bleepingcomputer.com/news/microsoft/new-out-of-band-oob-emergency-hotpatch-fixes-windows-server-2025-crashes/",
+    "https://www.bleepingcomputer.com/news/security/new-nfs2root-linux-flaw-can-let-attackers-gain-root-privileges/",
+    "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/",
+    "https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-get-78-percent-off-vpn-plans-in-2026/",
+    "https://www.bleepingcomputer.com/news/apple/fake-paid-expert-interviews-impersonate-brands-to-steal-google-logins/"
   ],
   "CERT-FR (ANSSI)": [
     "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0320/",
@@ -2710,7 +2727,18 @@
     "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1626/",
     "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1627/",
     "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1628/",
-    "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1629/"
+    "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1629/",
+    "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1630/",
+    "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1631/",
+    "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1632/",
+    "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1633/",
+    "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1634/",
+    "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1635/",
+    "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1636/",
+    "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1637/",
+    "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1638/",
+    "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1639/",
+    "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1640/"
   ],
   "CISA Advisories": [
     "https://www.cisa.gov/resources-tools/resources/2026-minimum-elements-software-bill-materials-sbom",
@@ -3172,7 +3200,8 @@
     "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-the-largest-squid-ever-filmed.html",
     "https://www.schneier.com/blog/archives/2026/11/humans-have-rights-machines-do-not.html",
     "https://www.schneier.com/blog/archives/2026/11/we-get-the-infrastructure-we-pay-for.html",
-    "https://www.schneier.com/blog/archives/2026/11/tracking-incidents-of-hacking-using-ai-tools.html"
+    "https://www.schneier.com/blog/archives/2026/11/tracking-incidents-of-hacking-using-ai-tools.html",
+    "https://www.schneier.com/blog/archives/2026/11/recent-outages-have-economic-causes.html"
   ],
   "SANS Internet Storm Center": [
     "https://isc.sans.edu/diary/rss/33200",
@@ -3836,7 +3865,11 @@
     "https://therecord.media/microsoft-china-salt-typhoon-using-artex-ai-tool",
     "https://therecord.media/fifa-data-breach-limited",
     "https://therecord.media/ransomware-doj-indictment-recovery",
-    "https://therecord.media/australia-passes-online-safety-legislation-preempt-harms"
+    "https://therecord.media/australia-passes-online-safety-legislation-preempt-harms",
+    "https://therecord.media/japan-education-ministry-cyberattack",
+    "https://therecord.media/sap-germany-cyberattack-github",
+    "https://therecord.media/france-afp-hit-by-cyberattack",
+    "https://therecord.media/uk-department-work-pensions-cyber-incident"
   ],
   "NCSC UK": [
     "https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027",
@@ -6898,7 +6931,8 @@
     "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
     "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
     "https://huggingface.co/blog/training-swarms",
-    "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents"
+    "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+    "https://huggingface.co/blog/video-trainium3"
   ],
   "Mistral AI": [
     "https://mistral.ai/news/manage-prompts-and-skills-in-studio/",
@@ -7315,7 +7349,17 @@
     "https://korben.info/g15-retro-hud.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
     "https://korben.info/ubuntu-lanceur-ia-local.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
     "https://korben.info/ff8-reborn-final-fantasy-viii-remastered.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-    "https://korben.info/game-boy-musee-cartouche.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal"
+    "https://korben.info/game-boy-musee-cartouche.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+    "https://korben.info/mini-kit-diagnostic-rapide-pc-windows.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+    "https://korben.info/obsidian-skills-agents-ia.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+    "https://korben.info/faux-gta-vi-pc-github-clickfix.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+    "https://korben.info/aliasvault-mots-de-passe-alias-email.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+    "https://korben.info/linux-imac-ecrans-tuiles.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+    "https://korben.info/windows-11-moins-de-ram.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+    "https://korben.info/volvo-robots-humanoides-aeon-gand.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+    "https://korben.info/xl-office-atari-xl-xe.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+    "https://korben.info/tidal-supprime-musique-ia.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+    "https://korben.info/tondeuse-autonome-pixhawk.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal"
   ],
   "ZATAZ": [
     "https://www.zataz.com/planity-visee-par-une-vente-presumee-de-donnees-piratees/",
@@ -7772,6 +7816,9 @@
     "https://www.undernews.fr/reseau-securite/le-non-respect-des-normes-de-securite-informatique-entraine-la-perte-de-contrats-pour-1-4-des-pme-francaises.html",
     "https://www.undernews.fr/reseau-securite/shadow-ai-quand-la-fuite-de-donnees-passe-par-un-copier-coller.html",
     "https://www.undernews.fr/hacking-hacktivisme/le-detournement-dartex-pour-pirater-la-commission-europeenne-ou-la-cia-illustre-la-montee-en-puissance-de-lia-agentique-offensive.html",
-    "https://www.undernews.fr/reseau-securite/cybersecurite-2027-lia-la-cryptographie-post-quantique-et-lautomatisation-de-la-confiance-numerique-au-coeur-des-priorites-des-entreprises.html"
+    "https://www.undernews.fr/reseau-securite/cybersecurite-2027-lia-la-cryptographie-post-quantique-et-lautomatisation-de-la-confiance-numerique-au-coeur-des-priorites-des-entreprises.html",
+    "https://www.undernews.fr/banque-cartes-bancaires/intelligence-artificielle-et-epargne-37-des-francais-ont-deja-utilise-lia-pour-leurs-placements-financiers.html",
+    "https://www.undernews.fr/reseau-securite/phishing-hoax/education-les-attaques-de-phishing-bondissaient-de-208-a-lapproche-de-la-rentree-selon-knowbe4.html",
+    "https://www.undernews.fr/reseau-securite/phishing-hoax/black-friday-sous-alerte-kaspersky-detecte-3-fois-plus-dattaques-de-phishing-ciblant-les-acheteurs-en-ligne-sur-un-an.html"
   ]
 }
